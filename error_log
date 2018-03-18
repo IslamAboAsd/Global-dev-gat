@@ -1,0 +1,6 @@
+[17-Dec-2017 10:52:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/globaldevgate/public_html/demo/contact.php on line 302
+[13-Jan-2018 12:02:43 America/Chicago] PHP Warning:  mysql_connect(): Too many connections in /home/globaldevgate/public_html/register.php on line 282
+[13-Jan-2018 12:02:43 America/Chicago] PHP Warning:  mysql_connect(): Too many connections in /home/globaldevgate/public_html/register.php on line 282
+[13-Jan-2018 12:02:46 America/Chicago] PHP Warning:  mysql_connect(): Too many connections in /home/globaldevgate/public_html/register.php on line 282
+[13-Jan-2018 12:02:57 America/Chicago] PHP Warning:  mysql_connect(): Too many connections in /home/globaldevgate/public_html/register.php on line 282
+[13-Jan-2018 12:29:06 America/Chicago] PHP Warning:  mysql_connect(): Too many connections in /home/globaldevgate/public_html/register.php on line 282

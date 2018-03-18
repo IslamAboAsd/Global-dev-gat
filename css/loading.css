@@ -1,0 +1,52 @@
+/* loading */
+
+.bg_load {
+    overflow: hidden;
+   background-image: url(../images/loading-bg.svg);
+    background-color: #ccc;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    overflow-x: hidden;
+    z-index: 999999999999;
+    text-align: center;
+}
+
+
+.arrow{
+    z-index: 999999999;
+    position: absolute;
+    top: -500px;
+    animation: flash 5s infinite;
+    
+}
+.man{
+    position: absolute
+}
+.bg_load img{
+    width: 100%;
+    
+    left: 0;
+   
+    top: 0;
+    width: 100%;
+    overflow-x: hidden;
+    z-index: 9999;
+    text-align: center;
+}
+.bg_load h1{
+    position: absolute;
+    top: 30px;
+    color: #777;
+    right: 10%;
+    text-shadow: 1px 2px 3px #fafafa
+
+}
+.bg_load h1 .sp1{
+     animation: flash 3s infinite;
+}.bg_load h1 .sp2{
+     animation: flash 2s infinite;
+}.bg_load h1 .sp3{
+     animation: flash 4s infinite;
+}
